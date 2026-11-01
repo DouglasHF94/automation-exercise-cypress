@@ -7,9 +7,11 @@
     "cy:open": "cypress open",
     "cy:run": "cypress run",
     "cy:run:chrome": "cypress run --browser chrome",
-    "test": "cypress run"
+    "test": "cypress run",
+    "cy:run:report": "cypress run"
   },
   "devDependencies": {
-    "cypress": "^14.5.4"
+    "cypress": "^14.5.4",
+    "cypress-mochawesome-reporter": "^5.0.0"
   }
 }
