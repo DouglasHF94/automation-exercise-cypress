@@ -1,0 +1,18 @@
+{
+  "name": "QA Cypress",
+  "password": "TesteSeguro123!",
+  "title": "Mr",
+  "birthDay": "10",
+  "birthMonth": "May",
+  "birthYear": "1995",
+  "firstName": "QA",
+  "lastName": "Tester",
+  "company": "Quality Assurance",
+  "address1": "Rua dos Testes, 100",
+  "address2": "Apto 10",
+  "country": "Canada",
+  "state": "Ontario",
+  "city": "Toronto",
+  "zipcode": "M5V 2T6",
+  "mobile": "11999999999"
+}
